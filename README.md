@@ -21,3 +21,5 @@ Initially, a form will be displayed where it would be asked to enter the type of
 3) Img_details: returns a JSON object with details about the image like- image filename, size, dimensions and image title etc.
 
 Enter one of the above choices and press the Submit button. The results will be displayed accordingly. 
+
+NOTE: Please check the comments in the code to understand it further.
